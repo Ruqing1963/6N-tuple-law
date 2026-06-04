@@ -1,0 +1,10 @@
+shell,quad_count,centres,rho_quad,source
+S2,1,15,0.0666666667,recomputed
+S3,3,150,0.0200000000,recomputed
+S4,7,1500,0.0046666667,recomputed
+S5,26,15000,0.0017333333,recomputed
+S6,128,150000,0.0008533333,recomputed
+S7,733,1500000,0.0004886667,recomputed
+S8,3869,15000000,0.0002579333,recomputed
+S9,23620,150000000,0.0001574667,recomputed (S9)
+S10,152141,1500000000,0.0001014273,recomputed from scratch, reproduced on 2nd machine
